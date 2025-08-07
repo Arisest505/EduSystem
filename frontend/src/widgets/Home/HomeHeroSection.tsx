@@ -59,7 +59,7 @@ export default function HomeHeroSection() {
         </motion.p>
 
         <motion.a
-          href="#planes"
+          href="/plans" // Reemplaza con la URL de tu sección de planes"
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
           transition={{ duration: 0.2 }}
