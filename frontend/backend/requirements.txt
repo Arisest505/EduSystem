@@ -1,0 +1,21 @@
+
+# Requiere Python 3.10.16 o 3.10
+fastapi==0.103.0
+pydantic>=2.11.7 
+uvicorn==0.22.0
+pydantic==1.10.7
+bcrypt==3.2.2
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.6
+
+pillow==11.1.0
+pillow-heif==0.14.0
+opencv-python==4.8.1.78
+scikit-image==0.22.0
+torch==2.1.0     
+torchvision==0.16.0 
+ultralytics==8.3.105
+numpy==1.26.4
+XlsxWriter==3.1.9
+openpyxl==3.1.2
+
